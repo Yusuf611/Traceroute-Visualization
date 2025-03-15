@@ -1,6 +1,5 @@
 # Intelligent Traceroute: Identifying Latency & IP Anomalies
 
-![Banner](https://github.com/sarthakpriyadarshi/Traceroute-Based-Network-Mapping-and-Visualization/blob/main/images/banner.png?raw=true)
 
 ## 📌 Overview
 Intelligent Traceroute is a network mapping and anomaly detection system designed to identify suspicious IP addresses and latency spikes in network paths. The project leverages modern technologies to provide an efficient and intelligent network monitoring solution.
@@ -44,6 +43,7 @@ _Backend will run on `http://localhost:8000`_
 cd frontend
 npm install
 npm run build
+npm start dev
 ```
 _Frontend will run on `http://localhost:3000`_
 
@@ -51,12 +51,3 @@ _Frontend will run on `http://localhost:3000`_
 1. User enters a URL/IP in the web interface.
 2. The backend executes **traceroute/tracert** to collect network path data.
 3. AI model processes the data to detect anomalies.
-4. Results are displayed in a structured JSON format.
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
-🌟 **Contributions are welcome!** Feel free to fork, submit issues, or open pull requests. 🚀
-
