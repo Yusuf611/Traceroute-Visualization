@@ -1,5 +1,6 @@
 # Intelligent Traceroute: Identifying Latency & IP Anomalies
 
+![Banner](https://github.com/sarthakpriyadarshi/Traceroute-Based-Network-Mapping-and-Visualization/blob/main/images/banner.png?raw=true)
 
 ## 📌 Overview
 Intelligent Traceroute is a network mapping and anomaly detection system designed to identify suspicious IP addresses and latency spikes in network paths. The project leverages modern technologies to provide an efficient and intelligent network monitoring solution.
