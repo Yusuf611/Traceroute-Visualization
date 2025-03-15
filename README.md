@@ -33,8 +33,7 @@ cd Traceroute-Visualization
 ```sh
 cd backend
 pip install -r requirements.txt
-cd app
-python3 main.py
+python app/main.py
 ```
 _Backend will run on `http://localhost:8000`_
 
